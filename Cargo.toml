@@ -1,0 +1,8 @@
+[package]
+name = "midiutil"
+version = "0.1.0"
+authors = ["Graham Boyes <gr.ed.boyes@gmail.com>"]
+
+[dependencies]
+portmidi = "*"
+getopts = "*"
